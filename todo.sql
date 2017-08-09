@@ -13,7 +13,7 @@ INSERT INTO thingsToDO(title, details, priority, created_at)VALUES('Change oil',
 
 INSERT INTO thingsToDO(title, details, priority, created_at)VALUES('Claim The Iron Throne','Make Jon Snow bend the knee',1,'2017-8-01');
 
-INSERT INTO thingsToDO(title, details, priority, created_at)VALUES('Don\'t tell Solo the Odds','Never tell him the odds',4,'2017-8-04');
+INSERT INTO thingsToDO(title, details, priority, created_at)VALUES('Don''t tell Solo the Odds','Never tell him the odds',4,'2017-8-04');
 
 INSERT INTO thingsToDO(title, details, priority, created_at)VALUES('Go to Taco bell','Order a Big-mac',6,'2017-8-02');
 
